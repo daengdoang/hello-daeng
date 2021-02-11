@@ -11,11 +11,10 @@ export default function Home() {
     <Container>
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
-          Hey, I’m Lee Robinson
+          Hey, I’m Daeng Muhammad Feisal
         </h1>
         <h2 className="prose text-gray-600 dark:text-gray-400 mb-16">
-          I’m a developer, writer, and creator. I work at ▲Vercel as a Solutions
-          Architect. You’ve found my personal slice of the internet –&nbsp;
+          I’m a Product Designer. I work at XPRSV as a Managing Partner. You’ve found my personal slice of the internet –&nbsp;
           <Link href="/guestbook">
             <a>sign my guestbook&nbsp;</a>
           </Link>
@@ -43,9 +42,9 @@ export default function Home() {
           Projects
         </h3>
         <ProjectCard
-          title="React 2025"
-          description="Build and deploy a modern Jamstack application using the most popular open-source software."
-          href="https://react2025.com/"
+          title="Indonesians Who Design"
+          description="List of talented designers from Indonesia."
+          href="https://indonesianswhodesign.dae.ng/"
           icon="react2025"
         />
         <ProjectCard
@@ -60,7 +59,6 @@ export default function Home() {
           href="https://fastfeedback.io/"
           icon="fastfeedback"
         />
-        <Timeline />
         <Subscribe />
       </div>
     </Container>

@@ -43,7 +43,7 @@ export default function About() {
         </h1>
         <div className="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
           <p>
-            Hey, I’m Lee. I'm a developer, writer, and the creator of&nbsp;
+            Hey, I’m Daeng. I'm a designer, writer, and the creator of&nbsp;
             <a
               href="https://masteringnextjs.com"
               target="_blank"
